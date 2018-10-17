@@ -1,1 +1,11 @@
 Trabajo en equipo con git
+¿Cual es la diferencia entre compilación e interpretación?
+Un intérprete traduce instrucciones de alto nivel en una forma intermedia para ser ejecutados. 
+En cambio, un compilador traduce instrucciones de alto nivel directamente al lenguaje máquina.
+El intérprete traduce un programa línea a línea, mientras que el compilador traduce el programa entero y luego lo ejecuta.
+
+¿Cual es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+El fichero .sh contiene más líneas con información sobre el programa que debe ejecutar las instrucciones, mientras que el fichero .rb solo tiene una línea de código y depende de el intérprete para ser ejecutado.
+
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+Esa línea indica la localización del programa en la máquina que debe ejecutar las instrucciones.
